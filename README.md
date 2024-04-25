@@ -11,3 +11,4 @@ Sample Questions:
 *Highest selling catagory?
 *Relation between age an gender based on number of orders?
 * Give your suggestion to improve sales seeing the dasboard.
+The raw data also provided with report as raw data.
